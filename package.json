@@ -1,0 +1,35 @@
+{
+  "name": "node_array",
+  "version": "0.0.1",
+  "main": "./lib/array.js",
+  "description": "Модуль array",
+  "author": {
+    "name": "Olesya",
+    "email": "olesya.riltsova@gmail.com"
+  },
+  "homepage": "https://github.com/Areta/node_array/",
+  "directories": {
+    "lib": "./lib"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Areta/node_array"
+  },
+  "engines": {
+    "node": ">0.4.x"
+  },
+  "scripts": {
+  },
+  "readme": "node-test\n===========\n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Areta/node_array/issues"
+  }
+}
