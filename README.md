@@ -2,6 +2,8 @@ node_array
 ==========
 # Introduction
 
+This module processes the array, grouping it in a prescribed 
+parameter <br>
 ## Example:<br>
 `var array = require('node_array');`<br>
 `args={`<br>
