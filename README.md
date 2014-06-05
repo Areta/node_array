@@ -1,11 +1,6 @@
 node_array
 ==========
-
-node_array
-
-
 # Introduction
-
 
 ## Example:<br>
 `var array = require('node_array');`<br>
