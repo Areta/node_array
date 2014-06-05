@@ -4,10 +4,11 @@ node_array
 node_array
 
 
-### ## Introduction
+###Introduction
 
-***
+----------------------------------
 Example:
+
  var array = require('node_array');
 args={
 "0":{"native":"apple",
